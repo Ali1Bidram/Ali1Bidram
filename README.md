@@ -2,7 +2,7 @@
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: instagram:__.aliiiib.__ 
+- 📫 How to reach me:
 
 <!---
 Ali1Bidram/Ali1Bidram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
